@@ -1,1 +1,1 @@
-# selenium-maxi
+# selenium-practice
